@@ -1,4 +1,4 @@
-# Simple-TCP-Math-Server.# Simple TCP Math Server
+# Simple-TCP-Math-Server.
 
 ## Overview
 
