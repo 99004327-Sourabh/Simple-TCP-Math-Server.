@@ -17,7 +17,6 @@ Welcome to the `SimpleTCPCalculator` project! This project provides a basic exam
   - Sends commands to the server and displays the results.
   - Disconnects upon receiving a termination signal from the server.
 
-## Quick Start
 
 ### Requirements
 
