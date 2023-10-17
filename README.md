@@ -23,26 +23,6 @@ Welcome to the `SimpleTCPCalculator` project! This project provides a basic exam
 
 - .NET Core SDK (Version 5.0 or later)
 
-### Running the Project
-
-1. Clone the repository:
-git clone [Repository URL]
-cd SimpleTCPCalculator
-
-arduino
-Copy code
-
-2. To run the server:
-dotnet run --project path/to/Server.fsproj
-
-arduino
-Copy code
-
-3. To run the client:
-dotnet run --project path/to/Client.fsproj
-
-markdown
-Copy code
 
 ### Usage
 
